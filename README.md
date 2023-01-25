@@ -9,7 +9,6 @@ Additionally, we have implemented multithreading support, which allows the serve
 
 
 ### Installation
-- Clone the project by typing "git clone https://github.com/lioz123/finalStone.git" in your terminal.
 - After cloning run the command: "make" inorder to compile the project, the command make will load Makefile to the project.
 - After compling you should see that the "server.out" and "client.out" file have been created, run "./client.out ip_address port" "./server.out port"  to run the program.
 
